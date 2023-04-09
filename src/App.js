@@ -9,7 +9,7 @@ function App() {
         <Weather defaultcity="Barrancabermeja" />
       </section>
       <footer className="codeInfo">
-        <a href="https://github.com/zaicampo/my-weather-app">
+        <a href="https://github.com/zaicampo/new-weather-app-2nd">
           Open source code
         </a>
         <span>{""} by Zaira Campo</span>
