@@ -49,3 +49,8 @@ img {
 .weatherInfo {
   list-style: none;
 }
+
+.unitTemperature {
+  position: relative;
+  bottom: 22px;
+}
