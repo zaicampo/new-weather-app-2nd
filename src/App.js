@@ -9,7 +9,11 @@ function App() {
         <Weather defaultcity="Bogota" />
       </section>
       <footer className="codeInfo">
-        <a href="https://github.com/zaicampo/new-weather-app-2nd">
+        <a
+          href="https://github.com/zaicampo/new-weather-app-2nd"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open source code
         </a>
         <span>{""} by Zaira Campo</span>
