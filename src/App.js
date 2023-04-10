@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <section className="weather">
-        <Weather defaultcity="Barrancabermeja" />
+        <Weather defaultcity="Bogota" />
       </section>
       <footer className="codeInfo">
         <a href="https://github.com/zaicampo/new-weather-app-2nd">
